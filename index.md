@@ -51,3 +51,10 @@ Eres reclutador y me estas ayudando a mejorar mi presntación para mi portafolio
 **Nota** Puede agregarle más contexto a este prompt dependiendo de tu perfil, del puesto que quieras conseguir. Ejemplo: Community Manager, Analista de sistemas, Programador Backend, Maquetador, etc.
 
 ### **Paso 6**
+
+Cuando cuentes con la descripción mejorada, estaremos preparados para exportar la información a un lenguaje de desarrollo web. 
+Con el siguiente prompt:
+- Pasa el texto anterior en formato HTML 
+- **Alternativamente:** Pasa el texto anterior en formato Markdown.  
+
+**Nota:** Yo prefiero en Markdown por la constubre pero tu puedes usar el que quieras. 
