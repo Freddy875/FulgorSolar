@@ -44,8 +44,10 @@ Una vez que tengas clara tu idea, el siguiente paso es consultar qué informaci�
 
 ### **Paso 5**
 
-una vez que ya tengas tu presentación sobre tí puedes pedirle que la mejore con el siguiente prompt:
+Una vez que ya tengas tu presentación sobre tí puedes pedirle que la mejore con el siguiente prompt:
 
 Eres reclutador y me estas ayudando a mejorar mi presntación para mi portafolio personal. Espera a que escribe mi presentación. Antes de empezar presentate y explica lo que tienes que hacer. 
+
+**Nota** Puede agregarle más contexto a este prompt dependiendo de tu perfil, del puesto que quieras conseguir. Ejemplo: Community Manager, Analista de sistemas, Programador Backend, Maquetador, etc.
 
 ### **Paso 6**
