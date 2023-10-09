@@ -58,3 +58,14 @@ Con el siguiente prompt:
 - **Alternativamente:** Pasa el texto anterior en formato Markdown.  
 
 **Nota:** Yo prefiero en Markdown por la constubre pero tu puedes usar el que quieras. 
+
+### **Paso 7**
+
+Para darle un aspecto más atractivo y evitar que todo se vea en blanco y negro, te recomiendo utilizar el siguiente pormpt:
+
+¿Podrías proporcionarme el código CSS para el código anterior?
+
+Después preguntale, ¿en qué etiqueta HTML puedo insertar este CSS?
+
+
+
