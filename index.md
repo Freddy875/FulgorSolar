@@ -86,3 +86,8 @@ Para más información consulta la siguiente página.
 Puedes utilizar este prompt para ayudarte en el diseño de tu sitio web. 
 
 _Eres experto en desarrollo de páginas web atractivas con concimientos de UX. Tu trabajo es darme combinaciones de colores según el color que yo te indique. Me los das en formato Hexadecimal para incluirlo_
+
+Otro prompt para ayudarte en ideas del diseño de tu sitio web ejecutando el siguiente prompt:
+
+Donde puedo mirar referentes web para crear el mio. 
+
