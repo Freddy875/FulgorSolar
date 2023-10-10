@@ -73,15 +73,37 @@ Nuestra siguiente preguante. ¿Como Cambiar el color de fondo de las secciones?
 
 ### **Paso 9**
 
-Si quiere incluir imagenes entonces ejecuta el siguiente promtp:
+Si deseas incorporar imágenes, a continuación, ejecuta la siguiente solicitud:
 
-Que sitios web conoces donde pueda obtener imagenes gratuitas.
+¿Cuáles son algunos sitios web donde puedo obtener imágenes de forma gratuita?
 
-Adicionalmente puedes utizar tecnicas de Meta Ingenieria de Prompts para crear imagenes con IA generativa de Text to Image. 
+Además, es posible emplear técnicas de Meta Ingeniería de Prompts para generar imágenes mediante inteligencia artificial de Text-to-Image.
 
-Para más información consulta la siguiente página. 
+Para obtener información adicional, por favor, consulta la página mencionada.
 
 [Meta Ingenieria de Prompts](https://freddy875.github.io/TrentSteel/)
+
+He aquí un ejemplo de aplicar la Meta Ingeneira de prompts. 
+
+Esta es el prompt que yo cree. 
+
+_Logotipo de un robot futurista de Star Wars. Con los colores negros y rojos._
+
+Y este es el prompt que me genero.
+
+Por supuesto, aquí tienes un prompt mejorado para generar un logotipo de un robot futurista de Star Wars con colores negros y rojos utilizando DALL-E:
+
+En español:
+"Genera un logotipo que represente un robot futurista en el estilo de Star Wars. El diseño debe ser principalmente de color negro y rojo, con un enfoque en la elegancia y la tecnología avanzada."
+
+In English:
+"Generate a logo representing a futuristic robot in the style of Star Wars. The design should primarily feature black and red colors, with an emphasis on elegance and advanced technology."
+
+Puedes utilizar este prompt con modelos generativos como DALL-E para obtener una imagen que se ajuste a tu descripción. Si necesitas más detalles o ajustes específicos, no dudes en decírmelo.
+
+Lo ejecute en Stable Diffusion y he aquí la imagen que me genero
+
+![Stormtrooper.png](Stormtrooper.png "Stormtrooper")
 
 Puedes utilizar este prompt para ayudarte en el diseño de tu sitio web. 
 
