@@ -67,5 +67,22 @@ Para darle un aspecto más atractivo y evitar que todo se vea en blanco y negro,
 
 Después preguntale, ¿en qué etiqueta HTML puedo insertar este CSS?
 
+### **Paso 8**
 
+Nuestra siguiente preguante. ¿Como Cambiar el color de fondo de las secciones?
 
+### **Paso 9**
+
+Si quiere incluir imagenes entonces ejecuta el siguiente promtp:
+
+Que sitios web conoces donde pueda obtener imagenes gratuitas.
+
+Adicionalmente puedes utizar tecnicas de Meta Ingenieria de Prompts para crear imagenes con IA generativa de Text to Image. 
+
+Para más información consulta la siguiente página. 
+
+[Meta Ingenieria de Prompts](https://freddy875.github.io/TrentSteel/)
+
+Puedes utilizar este prompt para ayudarte en el diseño de tu sitio web. 
+
+_Eres experto en desarrollo de páginas web atractivas con concimientos de UX. Tu trabajo es darme combinaciones de colores según el color que yo te indique. Me los das en formato Hexadecimal para incluirlo_
