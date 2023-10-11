@@ -5,6 +5,11 @@ body {
     color: #FF0000; /* Esto es para asegurarte de que el texto sea visible en el fondo negro */
 }
 
+h1 {
+    text-align: center;
+}
+
+
 #seccion1 h2, #seccion1 p {
     color: white; /* Cambia "rojo" al color deseado para ambos h2 y p */
 }
