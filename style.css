@@ -11,14 +11,20 @@ h1 {
 
 
 #seccion1 h2, #seccion1 p {
-    color: white; /* blanco */
+    color: white; /* Blanco */
 }
 
-#seccion2 h2, #seccion2 p #seccion2 ul #seccion2 li{
+#seccion2 h2, #seccion2 p, #seccion2 ul, #seccion2 li {
 
     color: #FFD700; /* Dorado */
 }
 
-#seccion3 h3, #seccion3 p{
-    color: #008000; /*Verde*/
+#seccion3 h3, #seccion3 p {
+    color: #008000; /* Verde */
+}
+
+#seccion4 h3, #seccion4 p {
+
+    color: #0000FF; /* Azul */
+
 }
