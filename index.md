@@ -1,4 +1,4 @@
-<div class="section1" background-color: black; color:#FF0000;>
+<div background-color: black; color:#FF0000;>
   # Guía para elaborar tu sitio web con ChatGPT    
 </div>
 
