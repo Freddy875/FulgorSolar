@@ -18,3 +18,7 @@ h1 {
 
     color: #FFD700; /* Dorado */
 }
+
+#seccion3 h3, #seccion3 p{
+    color: #008000; /*Verde*/
+}
