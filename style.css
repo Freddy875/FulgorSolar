@@ -11,6 +11,10 @@ h1 {
 
 
 #seccion1 h2, #seccion1 p {
-    color: white; /* Cambia "rojo" al color deseado para ambos h2 y p */
+    color: white; /* blanco */
 }
 
+#seccion2 h2, #seccion2 p #seccion2 ul #seccion2 li{
+
+    color: #FFD700; /* Dorado */
+}
