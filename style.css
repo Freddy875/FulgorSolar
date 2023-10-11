@@ -6,5 +6,70 @@
 
 .section2 {
     background-color: black; /* Cambiar el color de fondo a negro */
-    color: white; /* Cambiar el color del texto a blancoo */
+    color: white; /* Cambiar el color del texto a blanco */
 }
+
+.section3 {
+
+    background-color: black;/* Cambiar el color de fondo a negro */
+    color: #FFD700; /* Cambiar el color del texto a dorado */
+}
+
+.section4 {
+    background-color: black;
+    color: #C0C0C0; /* Cambiar el color del texto a plateado */
+
+}
+
+.section5 {
+    background-color: black;
+    color: #008000; /*Verde esmeralda*/
+}
+
+.section6{
+
+    background-color: black;
+    color: #000080; /* Azul marino */
+}
+
+.section7{
+    background-color: black;
+    color: #FFA500; /*Naranja*/
+}
+
+.section8{
+    background-color: black;
+    color: #FFFF00; /*Amarillo*/
+}
+
+.section9{
+    background-color: black;
+    color: #800080; /*Morado*/
+}
+
+.section10{
+    background-color: black;
+    color: #FF69B4; /*Rosa*/
+}
+
+.section11{
+    background-color: black;
+    color: #40E0D0; /*Turquesa*/
+}
+
+.section12{
+    background-color: black;
+    color: #00FFFF; /*Cian*/
+}
+
+.section13{
+    background-color: black;
+    color:  #E6E6FA; /*Lavanda*/
+}
+
+.section14{
+    background-color: black;
+
+    color: #32CD32; /*Verde limon*/
+}
+
