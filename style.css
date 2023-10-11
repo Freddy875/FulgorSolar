@@ -5,12 +5,11 @@ body {
     color: #fff; /* Esto es para asegurarte de que el texto sea visible en el fondo negro */
 }
 
-/*
 .section1 {
-    background-color: black; /* Cambiar el color de fondo a negro */
-    color: #FF0000; /* Cambiar el color del texto a rojo 
+    color: #FF0000; /* Cambiar el color del texto a rojo*/
 }
-.section2 {
+
+/*.section2 {
     background-color: black; /* Cambiar el color de fondo a negro */
     color: white; /* Cambiar el color del texto a blanco 
 }
