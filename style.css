@@ -1,5 +1,11 @@
 /* style.css */
 .section1 {
-    background-color: #000; /* Cambiar el color de fondo a negro */
-    color: #000; /* Cambiar el color del texto a negro */
+    background-color: black; /* Cambiar el color de fondo a negro */
+    color: #FF0000; /* Cambiar el color del texto a rojo */
+}
+
+.section2 {
+    background-color: black; /* Cambiar el color de fondo a negro */
+    color: white; /* Cambiar el color del texto a blancoo *
+
 }
