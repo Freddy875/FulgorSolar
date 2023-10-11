@@ -1,109 +1,144 @@
-# Guía para elaborar tu sitio web con ChatGPT
 
-## Intorducción
+<div class="section1" background-color: black; color:#FF0000;>
+  # Guía para elaborar tu sitio web con ChatGPT    
+</div>
 
-"La creación de un sitio web puede representar un desafío en la actualidad, dado que se considera que todos necesitarán la capacidad de construir y presentarse a través de uno. Afortunadamente, existen herramientas que facilitan la elaboración de sitios web sin la necesidad de conocimientos en programación. No obstante, también es recomendable comprender lo que sucede detrás de escena para tener un mejor entendimiento y la posibilidad de replicarlo.
+<div class="section2">
+   ## Intorducción
 
-Una excelente herramienta para generar nuestro sitio web y profundizar en nuestro aprendizaje a medida que la utilizamos es la inteligencia artificial, en particular ChatGPT. Todo se basa en formular las preguntas adecuadas para lograrlo de manera efectiva."
+  "La creación de un sitio web puede representar un desafío en la actualidad, dado que se considera que todos necesitarán la capacidad de construir y presentarse   a través de uno. Afortunadamente, existen herramientas que facilitan la elaboración de sitios web sin la necesidad de conocimientos en programación. No           obstante, también es recomendable comprender lo que sucede detrás de escena para tener un mejor entendimiento y la posibilidad de replicarlo.
 
-## Para publicar tu sitio web si eres principiante.
+  Una excelente herramienta para generar nuestro sitio web y profundizar en nuestro aprendizaje a medida que la utilizamos es la inteligencia artificial, en        particular ChatGPT. Todo se basa en formular las preguntas adecuadas para lograrlo de manera efectiva."
 
-Utiliza los siguiente prompts. 
+</div>
 
-- Como puedo publicar mi pagina Web de forma facil, si aun no tengo conocimiento. 
-- Como puedo publicar mi página web hecha con HTML de forma facil.
-- Como puedo publicar mi página web hecha en Markdown de forma facil.
+<div class="section3">
+    ## Para publicar tu sitio web si eres principiante.
 
-### Para ideas de creación de tu sitio web.
+  Utiliza los siguiente prompts. 
 
-A continuación te describo los pasos o prompts a seguir para la elbarocación de tu sitio web. 
+   - Como puedo publicar mi pagina Web de forma facil, si aun no tengo conocimiento. 
+   - Como puedo publicar mi página web hecha con HTML de forma facil.
+   - Como puedo publicar mi página web hecha en Markdown de forma facil.
 
-Para desarrollar un sitio web, generalmente se cuenta con una noción de la temática que se quiere abordar. Sin embargo, en el caso de carecer de una idea clara, siempre puedes recurrir a ChatGPT para obtener recomendaciones, con el siguiente prompt:
+</div>
 
-### **Paso 1**
+<div class="section4">
+    ### Para ideas de creación de tu sitio web.
 
--Que temás me recomiendas para hacer mi primera página web. 
+  A continuación te describo los pasos o prompts a seguir para la elbarocación de tu sitio web. 
 
-En este caso tomaremos como ejemplo la elaboración de tu portafolio personal. 
+  Para desarrollar un sitio web, generalmente se cuenta con una noción de la temática que se quiere abordar. Sin embargo, en el caso de carecer de una idea         clara, siempre puedes recurrir a ChatGPT para obtener recomendaciones, con el siguiente prompt:
+</div>
 
-### **Paso 2**
+<div class="section5">
+    
+  ### **Paso 1**
 
-Una vez que tengas clara tu idea, el siguiente paso es consultar qué información se recomienda incluir. Como referencia, puedes utilizar el siguiente prompt:
+  Que temás me recomiendas para hacer mi primera página web. 
 
-**"¿Qué información consideras importante incluir en mi Portafolio Personal?"**
+  En este caso tomaremos como ejemplo la elaboración de tu portafolio personal. 
 
-### **Paso 3**
+</div>
 
-¿Qué titulo le puedo poner a mi portafolio personal?
+<div class="section6">
+    ### **Paso 2**
 
-### **Paso 4**
+  Una vez que tengas clara tu idea, el siguiente paso es consultar qué información se recomienda incluir. Como referencia, puedes utilizar el siguiente prompt:
 
-¿Como puedo hacer una breve presentación sobre mí y lo que hago en mi portafolio personal?
+   **"¿Qué información consideras importante incluir en mi Portafolio Personal?"**
+</div>
 
-**Nota**: En este paso, ten en cuenta que la IA solo puede proporcionarte una guía sobre qué incluir en tu presentación personal, ya que no te conoce tan bien como tú mismo. Sin embargo, puedes pedirle que te ayude a mejorar la descripción, en el siguiente paso; te explicaré cómo hacerlo.
 
-### **Paso 5**
+<div class="section7">
+    ### **Paso 3**
 
-Una vez que ya tengas tu presentación sobre tí puedes pedirle que la mejore con el siguiente prompt:
+   ¿Qué titulo le puedo poner a mi portafolio personal?
 
-Eres reclutador y me estas ayudando a mejorar mi presntación para mi portafolio personal. Espera a que escribe mi presentación. Antes de empezar presentate y explica lo que tienes que hacer. 
+</div>
 
-**Nota** Puede agregarle más contexto a este prompt dependiendo de tu perfil, del puesto que quieras conseguir. Ejemplo: Community Manager, Analista de sistemas, Programador Backend, Maquetador, etc.
+<div class="section8">
+    ### **Paso 4**
 
-### **Paso 6**
+   ¿Como puedo hacer una breve presentación sobre mí y lo que hago en mi portafolio personal?
 
-Cuando cuentes con la descripción mejorada, estaremos preparados para exportar la información a un lenguaje de desarrollo web. 
-Con el siguiente prompt:
-- Pasa el texto anterior en formato HTML 
-- **Alternativamente:** Pasa el texto anterior en formato Markdown.  
+   **Nota**: En este paso, ten en cuenta que la IA solo puede proporcionarte una guía sobre qué incluir en tu presentación personal, ya que no te conoce tan         bien como tú mismo. Sin embargo, puedes pedirle que te ayude a mejorar la descripción, en el siguiente paso; te explicaré cómo hacerlo.
 
-**Nota:** Yo prefiero en Markdown por la constubre pero tu puedes usar el que quieras. 
+</div>
 
-### **Paso 7**
+<div class="section9">
+    ### **Paso 5**
 
-Para darle un aspecto más atractivo y evitar que todo se vea en blanco y negro, te recomiendo utilizar el siguiente pormpt:
+  Una vez que ya tengas tu presentación sobre tí puedes pedirle que la mejore con el siguiente prompt:
 
-¿Podrías proporcionarme el código CSS para el código anterior?
+  Eres reclutador y me estas ayudando a mejorar mi presntación para mi portafolio personal. Espera a que escribe mi presentación. Antes de empezar presentate y     explica lo que tienes que hacer. 
 
-Después preguntale, ¿en qué etiqueta HTML puedo insertar este CSS?
+  **Nota** Puede agregarle más contexto a este prompt dependiendo de tu perfil, del puesto que quieras conseguir. Ejemplo: Community Manager, Analista de           sistemas, Programador Backend, Maquetador, etc.
 
-### **Paso 8**
+</div>
 
-Nuestra siguiente preguante. ¿Como Cambiar el color de fondo de las secciones?
+<div class="section10">
+    ### **Paso 6**
 
-### **Paso 9**
+  Cuando cuentes con la descripción mejorada, estaremos preparados para exportar la información a un lenguaje de desarrollo web. 
+  Con el siguiente prompt:
+    - Pasa el texto anterior en formato HTML 
+    - **Alternativamente:** Pasa el texto anterior en formato Markdown.  
 
-Si deseas incorporar imágenes, a continuación, ejecuta la siguiente solicitud:
+   **Nota:** Yo prefiero en Markdown por la constubre pero tu puedes usar el que quieras. 
+</div>
 
-¿Cuáles son algunos sitios web donde puedo obtener imágenes de forma gratuita?
+<div class="section11">
+    ### **Paso 7**
 
-Además, es posible emplear técnicas de Meta Ingeniería de Prompts para generar imágenes mediante inteligencia artificial de Text-to-Image.
+   Para darle un aspecto más atractivo y evitar que todo se vea en blanco y negro, te recomiendo utilizar el siguiente pormpt:
 
-Para obtener información adicional, por favor, consulta la página mencionada.
+   ¿Podrías proporcionarme el código CSS para el código anterior?
 
-[Meta Ingenieria de Prompts](https://freddy875.github.io/TrentSteel/)
+   Después preguntale, ¿en qué etiqueta HTML puedo insertar este CSS?
 
-He aquí un ejemplo de aplicar la Meta Ingeneira de prompts. 
+</div>
 
-Esta es el prompt que yo cree. 
+<div class="section12">
+    ### **Paso 8**
 
-_Logotipo de un robot futurista de Star Wars. Con los colores negros y rojos._
+   Nuestra siguiente preguante. ¿Como Cambiar el color de fondo de las secciones?
+</div>
 
-Y este es el prompt que me genero.
+<div class="section13">
+    ### **Paso 9**
 
-Por supuesto, aquí tienes un prompt mejorado para generar un logotipo de un robot futurista de Star Wars con colores negros y rojos utilizando DALL-E:
+   Si deseas incorporar imágenes, a continuación, ejecuta la siguiente solicitud:
 
-En español:
-"Genera un logotipo que represente un robot futurista en el estilo de Star Wars. El diseño debe ser principalmente de color negro y rojo, con un enfoque en la elegancia y la tecnología avanzada."
+   ¿Cuáles son algunos sitios web donde puedo obtener imágenes de forma gratuita?
 
-In English:
-"Generate a logo representing a futuristic robot in the style of Star Wars. The design should primarily feature black and red colors, with an emphasis on elegance and advanced technology."
+   Además, es posible emplear técnicas de Meta Ingeniería de Prompts para generar imágenes mediante inteligencia artificial de Text-to-Image.
 
-Puedes utilizar este prompt con modelos generativos como DALL-E para obtener una imagen que se ajuste a tu descripción. Si necesitas más detalles o ajustes específicos, no dudes en decírmelo.
+   Para obtener información adicional, por favor, consulta la página mencionada.
 
-Lo ejecute en Stable Diffusion y he aquí la imagen que me genero
+   [Meta Ingenieria de Prompts](https://freddy875.github.io/TrentSteel/)
 
-![Stormtrooper.png](Stormtrooper.png "Stormtrooper")
+   He aquí un ejemplo de aplicar la Meta Ingeneira de prompts. 
+
+   Esta es el prompt que yo cree. 
+
+   _Logotipo de un robot futurista de Star Wars. Con los colores negros y rojos._
+
+   Y este es el prompt que me genero.
+
+   Por supuesto, aquí tienes un prompt mejorado para generar un logotipo de un robot futurista de Star Wars con colores negros y rojos utilizando DALL-E:
+
+   En español:
+   "Genera un logotipo que represente un robot futurista en el estilo de Star Wars. El diseño debe ser principalmente de color negro y rojo, con un enfoque en       la elegancia y la tecnología avanzada."
+
+   In English:
+   "Generate a logo representing a futuristic robot in the style of Star Wars. The design should primarily feature black and red colors, with an emphasis on         elegance and advanced technology."
+
+   Puedes utilizar este prompt con modelos generativos como DALL-E para obtener una imagen que se ajuste a tu descripción. Si necesitas más detalles o ajustes       específicos, no dudes en decírmelo.
+
+   Lo ejecute en Stable Diffusion y he aquí la imagen que me genero
+
+   ![Stormtrooper.png](Stormtrooper.png "Stormtrooper")
 
 Puedes utilizar este prompt para ayudarte en el diseño de tu sitio web. 
 
@@ -112,4 +147,62 @@ _Eres experto en desarrollo de páginas web atractivas con concimientos de UX. T
 Otro prompt para ayudarte en ideas del diseño de tu sitio web ejecutando el siguiente prompt:
 
 Donde puedo mirar referentes web para crear el mio. 
+
+</div>
+
+<div class="section14">
+    ### **Paso 10**
+
+Para dar los toques finales a tu sitio web, al visualizarlo, si ves elementos que desees cambiar en cuanto a estilo y tamaño, puedes realizar preguntas más puntuales a ChatGPT, como las siguientes:
+
+Centrar texto o imágenes:
+
+"¿Cómo puedo centrar el texto en mi sitio web?"
+"Deseo centrar una imagen en una página web, ¿cuál es la mejor forma de hacerlo?"
+
+Cambiar los colores:
+
+"¿Cómo puedo cambiar el color de fondo de una sección específica de mi sitio web?"
+"Quiero ajustar el color del texto en mi encabezado, ¿cuál es la mejor paleta de colores para usar?"
+
+Cambiar el tipo de texto:
+
+"¿Qué fuente de texto recomiendas para un sitio web con un estilo elegante?"
+"Necesito cambiar la fuente de texto en mis párrafos, ¿cuál sería una elección legible y moderna?"
+
+Puedes utilizar estas preguntas como punto de partida para obtener asesoramiento específico sobre la apariencia y el estilo de tu sitio web. 
+
+</div>
+
+<div class="section15">
+    ## Últimas recomendaciones:
+
+1. La práctica constante es esencial para dominar cualquier herramienta. Cuanto más la uses, más controlarás sus capacidades.
+
+2. No dudes en hacer preguntas. Cuantas más preguntas hagas, más oportunidades tendrás de aprender y descubrir nuevos conocimientos.
+
+3. Es importante que continúes desarrollando tus habilidades tanto en el campo del desarrollo web como en el ámbito de Prompt Engineering. Este enfoque constante en la mejora te beneficiará.
+
+4. A medida que avances, considera la posibilidad de incorporar elementos de JavaScript para añadir interactividad a tus proyectos. Piensa en la creación de elementos dinámicos, e incluso la posibilidad de desarrollar un eCommerce o un videojuego.
+
+Sigue aprendiendo y evolucionando, y tal vez en el futuro, tus próximos pasos involucren la creación de proyectos más complejos e impactantes. ¡El mundo de las posibilidades está abierto!"
+
+</div>
+
+<div class="section16">
+    ## Sobre el autor.
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>
+
+</div>
+
+
+
+
+
+
+
+
 
