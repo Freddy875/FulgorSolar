@@ -57,7 +57,7 @@ h1 {
     color: #E6E6FA /*Lavanda*/
 }
 
-#seccion12 h3, #seccion12 p, #seccion12 em { 
+#seccion12 h3, #seccion12 p, #seccion12 em, #seccion12 a{ 
     color: #32CD32; /*Verde limon*/ 
 }
 
