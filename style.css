@@ -61,6 +61,10 @@ h1 {
     color: #32CD32; /*Verde limon*/ 
 }
 
+#seccion12 img {
+        text-align: center; /* Centra horizontalmente el contenido */
+}
+
 #seccion_12_1 iframe {
     background-color: white;
     color: black;
