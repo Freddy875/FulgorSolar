@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    background-color: #000000; /*Negro*/
+    background-color: darkblue; /*Negro*/
     font-family: "Arial", sans-serif;
     line-height: 1.5; /* Puedes ajustar el valor según tus preferencias */
 }
@@ -13,7 +13,7 @@ h1 {
 
 
 #seccion1 h2, #seccion1 p {
-    color: white; /* Blanco */
+    color: #FF0000; /* Blanco */
 }
 
 #seccion2 h2, #seccion2 p, #seccion2 ul, #seccion2 li {
