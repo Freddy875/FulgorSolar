@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    background-color: #000;
+    background-color: black; /*Negro*/
 }
 
 h1 {
@@ -60,6 +60,12 @@ h1 {
 #seccion12 h3, #seccion12 p, #seccion12 em, #seccion12 a{ 
     color: #32CD32; /*Verde limon*/ 
 }
+
+#seccion_12_1 iframe {
+    background-color: white;
+    color: black;
+  }
+  
 
 #seccion13 h2, #seccion13 ol, #seccion13 li, #seccion13 p {
     color: #00CED1; /*Turquesa Oscuro*/ 
