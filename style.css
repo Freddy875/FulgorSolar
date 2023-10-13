@@ -28,3 +28,12 @@ h1 {
     color: #0000FF; /* Azul */
 
 }
+
+#seccion5 h3, #seccion5 p, #seccion5 strong {
+    color: #808080 /*Gris*/
+} 
+
+#seccion6 h3, #seccion6 p {
+
+    color: #800080 /*Morado*/
+}
