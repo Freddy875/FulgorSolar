@@ -75,7 +75,12 @@ h1 {
 }
 
 #Imagen-Stormtrooper img {
-    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+#continuidad p, #continuidad em {
+    color: #32CD32; /*Verde limon*/
 }
 
 
