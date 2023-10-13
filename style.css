@@ -70,8 +70,12 @@ h1 {
     background-color: white;
 }
 
-#seccion12.1 h3, #seccion12.1 p, #seccion12.1 em, #seccion12.1 a{ 
+#continuacion h3, #continuacion p, #continuacion em { 
     color: #32CD32; /*Verde limon*/ 
+}
+
+#Imagen-Stormtrooper img {
+    text-align: center;
 }
 
 
