@@ -65,11 +65,6 @@ h1 {
         text-align: center; /* Centra horizontalmente el contenido */
 }
 
-#seccion_12_1 iframe {
-    background-color: white;
-    color: black;
-  }
-  
 
 #seccion13 h2, #seccion13 ol, #seccion13 li, #seccion13 p {
     color: #00CED1; /*Turquesa Oscuro*/ 
