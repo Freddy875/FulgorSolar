@@ -63,10 +63,14 @@ h1 {
     color: #32CD32; /*Verde limon*/ 
 }
 
-#seccion12 img {
-        text-align: center; /* Centra horizontalmente el contenido */
-}
 
+#enbebido iframe {
+
+    margin: 1auto;
+    display: block;
+    background-color: white;
+
+}
 
 #seccion13 h2, #seccion13 ol, #seccion13 li, #seccion13 p {
     color: #00CED1; /*Turquesa Oscuro*/ 
