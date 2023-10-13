@@ -63,13 +63,17 @@ h1 {
     color: #32CD32; /*Verde limon*/ 
 }
 
-#enbebido iframe {
-
+#enbebido iframe { 
+    /*Para el embebido*/
     margin: 1auto;
     display: block;
     background-color: white;
-
 }
+
+#seccion12.1 h3, #seccion12.1 p, #seccion12.1 em, #seccion12.1 a{ 
+    color: #32CD32; /*Verde limon*/ 
+}
+
 
 #seccion13 h2, #seccion13 ol, #seccion13 li, #seccion13 p {
     color: #00CED1; /*Turquesa Oscuro*/ 
