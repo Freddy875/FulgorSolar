@@ -34,11 +34,38 @@ h1 {
 } 
 
 #seccion6 h3, #seccion6 p {
-
     color: #800080 /*Morado*/
 }
 
 #seccion7 h3, #seccion7 p, #seccion7 strong {
     color: #FFA500 /*Naranja*/
 } 
+
+#seccion8 h3, #seccion8 p, #seccion8 strong {
+    color: #FF69B4 /*Rosa*/
+} 
+
+#seccion9 h3, #seccion9 p, #seccion9 ul, #seccion9 li, #seccion9 strong {
+    color: #C0C0C0; /*Plateado*/
+}
+
+#seccion10 h3, #seccion10 p {
+    color: #00FFFF /*Cian*/
+}
+
+#seccion11 h3, #seccion11 p {
+    color: #E6E6FA /*Lavanda*/
+}
+
+#seccion12 h3, #seccion12 p, #seccion12 em { 
+    color: #32CD32; /*Verde limon*/ 
+}
+
+
+
+
+
+
+
+
 
