@@ -37,3 +37,8 @@ h1 {
 
     color: #800080 /*Morado*/
 }
+
+#seccion7 h3, #seccion7 p, #seccion7 strong {
+    color: #FFA500 /*Naranja*/
+} 
+
