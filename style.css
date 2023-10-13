@@ -61,6 +61,15 @@ h1 {
     color: #32CD32; /*Verde limon*/ 
 }
 
+#seccion13 h2, #seccion13 ol, #seccion13 li, #seccion13 p {
+    color: #00CED1; /*Turquesa Oscuro*/ 
+}
+
+#seccion14 h2{
+    color: #000080;
+}
+
+
 
 
 
