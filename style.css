@@ -92,20 +92,9 @@ h1 {
     color: #000080;
 }
 
-#linkedin-badge-container {
-    text-align: center; /* Centra el badge horizontalmente */
-    /* Otros estilos específicos si es necesario */
+.badge-base { 
+    text-align: center; color: white;
 }
-
-#badge-base-LI-profile-badge{
-    text-align: center;
-    margin: 1auto;
-    display: block;
-    background-color: white;
-}
-
-
-
 
 
 
