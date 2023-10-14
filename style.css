@@ -93,11 +93,11 @@ h1 {
 }
 
 /* Estilos específicos para el contenedor del badge */
-#linkedin-badge-container {
-    text-align: center; /* Centra el badge horizontalmente */
+/*#linkedin-badge-container {*/
+    /*text-align: center; /* Centra el badge horizontalmente */
     /* Otros estilos específicos si es necesario */
-    color: white;
-}
+    /*color: white;*/
+/*}*/   
 
 
 
