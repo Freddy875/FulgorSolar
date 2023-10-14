@@ -92,8 +92,9 @@ h1 {
     color: #000080;
 }
 
-.badge-base LI-profile-badge{ 
-    text-align: center; color: white;
+.badge-base a { 
+    text-align: center; 
+    color: white;
 }
 
 
