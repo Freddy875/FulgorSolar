@@ -92,6 +92,19 @@ h1 {
     color: #000080;
 }
 
+#Card {
+    /* Estilos para el contenedor */
+    text-align: center; /* Centra el contenido en el div */
+    background-color: white; /* Color de fondo */
+    padding: 20px; /* Espaciado interno */
+}
+
+#Card br {
+    /* Estilos para el salto de línea */
+    margin: 10px 0; /* Espacio entre el salto de línea y otros elementos */
+}
+
+
 /* Estilos específicos para el contenedor del badge */
 /*#linkedin-badge-container {*/
     /*text-align: center; /* Centra el badge horizontalmente */
