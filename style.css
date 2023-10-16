@@ -68,7 +68,13 @@ h1 {
     margin: 1auto;
     display: block;
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
+
 
 #continuacion h3, #continuacion p, #continuacion em { 
     color: #32CD32; /*Verde limon*/ 
